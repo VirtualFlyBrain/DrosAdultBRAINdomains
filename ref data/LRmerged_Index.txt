@@ -1,0 +1,43 @@
+JFRCtempate2010.mask130819_LRmerged
+Name	Stack id	FBbt
+AME	accessory medulla	2	FBbt:00045003
+LO	lobula	3	FBbt:00003852
+NO	nodulus	4	FBbt:00003680
+BU	bulb	5	FBbt:00003682
+PB	protocerebral bridge	6	FBbt:00003668
+LH	lateral horn	7	lateral horn
+LAL	lateral accessory lobe	8	FBbt:00003681
+SAD	saddle	9	FBbt:00045048
+CAN	cantle	10	FBbt:00045051
+AMMC	antennal mechanosensory and motor center	11	FBbt:00003982
+ICL	inferior clamp	12	FBbt:00040049
+VES	vest	13	FBbt:00040041
+IB	inferior bridge	14	FBbt:00040050
+ATL	antler	15	FBbt:00045039
+CRE	crepine	16	FBbt:00045037
+MB_PED	pedunculus of adult mushroom body	17	FBbt:00007453
+MB_VL	vertical lobe of adult mushroom body	18	FBbt:00015407
+MB_ML	medial lobe of adult mushroom body	19	FBbt:00007677
+FLA	flange	20	FBbt:00045050
+LOP	lobula plate	22	FBbt:00003885
+EB	ellipsoid body	23	FBbt:00003678
+AL	adult antennal lobe	24	FBbt:00007401
+ME	medulla	25	FBbt:00003748
+FB	fan-shaped body	26	FBbt:00003679
+SLP	superior lateral protocerebrum	27	FBbt:00007054
+SIP	superior intermediate protocerebrum	28	FBbt:00045032
+SMP	superior medial protocerebrum	29	FBbt:00007055
+AVLP	anterior ventrolateral protocerebrum	30	FBbt:00040043
+PVLP	posterior ventrolateral protocerebrum	31	FBbt:00040042
+IVLP	wedge	32	FBbt:00045027
+PLP	posterior lateral protocerebrum	33	FBbt:00040044
+AOTU	anterior optic tubercle	34	FBbt:00007059
+GOR	gorget	35	FBbt:00040039
+MB_CA	calyx of adult mushroom body	36	FBbt:00007385
+SPS	superior posterior slope	37	FBbt:00045040
+IPS	inferior posterior slope	38	FBbt:00045046
+SCL	superior clamp	39	FBbt:00040048
+EPA	epaulette	40	FBbt:00040040
+GNG	adult gnathal ganglion	49	FBbt:00014013
+PRW	prow	50	FBbt:00040051
+GA	gall	51	FBbt:00040060
