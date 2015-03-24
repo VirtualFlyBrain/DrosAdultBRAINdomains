@@ -1,1912 +1,1912 @@
-{   
-      "meta":{  
-         "name":"Janelia Adult Brain",
-         "id":"VFBt_00100000"
-      },
-      "domains":[  
-         {  
+{  
+    "meta":{  
+        "name":"Janelia Adult Brain",
+        "id":"VFBt_00100000"
+    },
+    "domains":[  
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003624"
+                "FBbt:00003624"
             ],
             "name":"adult brain"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00110636"
+                "FBbt:00110636"
             ],
             "name":"adult cerebral ganglion"
-         },
-         {  
+        },
+        {  
             "id":"24",
             "extId":[  
-               "FBbt:00007401"
+                "FBbt:00007401"
             ],
             "name":"adult antennal lobe"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00067500"
+                "FBbt:00067500"
             ],
             "name":"adult antennal lobe glomerulus"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00007093"
+                "FBbt:00007093"
             ],
             "name":"antennal lobe glomerulus 2"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003960"
+                "FBbt:00003960"
             ],
             "name":"antennal lobe glomerulus D"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003932"
+                "FBbt:00003932"
             ],
             "name":"antennal lobe glomerulus DA1"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003933"
+                "FBbt:00003933"
             ],
             "name":"antennal lobe glomerulus DA2"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003934"
+                "FBbt:00003934"
             ],
             "name":"antennal lobe glomerulus DA3"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003935"
+                "FBbt:00003935"
             ],
             "name":"antennal lobe glomerulus DA4"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00007360"
+                "FBbt:00007360"
             ],
             "name":"antennal lobe glomerulus DA4l"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00007361"
+                "FBbt:00007361"
             ],
             "name":"antennal lobe glomerulus DA4m"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003961"
+                "FBbt:00003961"
             ],
             "name":"antennal lobe glomerulus DC1"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003962"
+                "FBbt:00003962"
             ],
             "name":"antennal lobe glomerulus DC2"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003963"
+                "FBbt:00003963"
             ],
             "name":"antennal lobe glomerulus DC3"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00100531"
+                "FBbt:00100531"
             ],
             "name":"antennal lobe glomerulus DC4"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003968"
+                "FBbt:00003968"
             ],
             "name":"antennal lobe glomerulus DL1"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00100375"
+                "FBbt:00100375"
             ],
             "name":"antennal lobe glomerulus DL1l"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003969"
+                "FBbt:00003969"
             ],
             "name":"antennal lobe glomerulus DL2"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00100377"
+                "FBbt:00100377"
             ],
             "name":"antennal lobe glomerulus DL2d"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00100376"
+                "FBbt:00100376"
             ],
             "name":"antennal lobe glomerulus DL2v"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003964"
+                "FBbt:00003964"
             ],
             "name":"antennal lobe glomerulus DL3"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003965"
+                "FBbt:00003965"
             ],
             "name":"antennal lobe glomerulus DL4"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003970"
+                "FBbt:00003970"
             ],
             "name":"antennal lobe glomerulus DL5"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00007442"
+                "FBbt:00007442"
             ],
             "name":"antennal lobe glomerulus DL6"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003975"
+                "FBbt:00003975"
             ],
             "name":"antennal lobe glomerulus DM1"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003971"
+                "FBbt:00003971"
             ],
             "name":"antennal lobe glomerulus DM2"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003972"
+                "FBbt:00003972"
             ],
             "name":"antennal lobe glomerulus DM3"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003976"
+                "FBbt:00003976"
             ],
             "name":"antennal lobe glomerulus DM4"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003940"
+                "FBbt:00003940"
             ],
             "name":"antennal lobe glomerulus DM5"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003941"
+                "FBbt:00003941"
             ],
             "name":"antennal lobe glomerulus DM6"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003977"
+                "FBbt:00003977"
             ],
             "name":"antennal lobe glomerulus DP1"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00007098"
+                "FBbt:00007098"
             ],
             "name":"antennal lobe glomerulus DP1l"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00007097"
+                "FBbt:00007097"
             ],
             "name":"antennal lobe glomerulus DP1m"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003951"
+                "FBbt:00003951"
             ],
             "name":"antennal lobe glomerulus V"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003936"
+                "FBbt:00003936"
             ],
             "name":"antennal lobe glomerulus VA1"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00007101"
+                "FBbt:00007101"
             ],
             "name":"antennal lobe glomerulus VA1d"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00007363"
+                "FBbt:00007363"
             ],
             "name":"antennal lobe glomerulus VA1v"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003942"
+                "FBbt:00003942"
             ],
             "name":"antennal lobe glomerulus VA2"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003943"
+                "FBbt:00003943"
             ],
             "name":"antennal lobe glomerulus VA3"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003944"
+                "FBbt:00003944"
             ],
             "name":"antennal lobe glomerulus VA4"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003937"
+                "FBbt:00003937"
             ],
             "name":"antennal lobe glomerulus VA5"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003938"
+                "FBbt:00003938"
             ],
             "name":"antennal lobe glomerulus VA6"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003945"
+                "FBbt:00003945"
             ],
             "name":"antennal lobe glomerulus VA7"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00007103"
+                "FBbt:00007103"
             ],
             "name":"antennal lobe glomerulus VA7l"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00007102"
+                "FBbt:00007102"
             ],
             "name":"antennal lobe glomerulus VA7m"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003952"
+                "FBbt:00003952"
             ],
             "name":"antennal lobe glomerulus VC1"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003946"
+                "FBbt:00003946"
             ],
             "name":"antennal lobe glomerulus VC2"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003953"
+                "FBbt:00003953"
             ],
             "name":"antennal lobe glomerulus VC3"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00007105"
+                "FBbt:00007105"
             ],
             "name":"antennal lobe glomerulus VC3l"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00007104"
+                "FBbt:00007104"
             ],
             "name":"antennal lobe glomerulus VC3m"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00007366"
+                "FBbt:00007366"
             ],
             "name":"antennal lobe glomerulus VC4"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003954"
+                "FBbt:00003954"
             ],
             "name":"antennal lobe glomerulus VL1"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003955"
+                "FBbt:00003955"
             ],
             "name":"antennal lobe glomerulus VL2"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00007106"
+                "FBbt:00007106"
             ],
             "name":"antennal lobe glomerulus VL2a"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00007107"
+                "FBbt:00007107"
             ],
             "name":"antennal lobe glomerulus VL2p"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003956"
+                "FBbt:00003956"
             ],
             "name":"antennal lobe glomerulus VM1"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003947"
+                "FBbt:00003947"
             ],
             "name":"antennal lobe glomerulus VM2"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003948"
+                "FBbt:00003948"
             ],
             "name":"antennal lobe glomerulus VM3"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003957"
+                "FBbt:00003957"
             ],
             "name":"antennal lobe glomerulus VM4"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003949"
+                "FBbt:00003949"
             ],
             "name":"antennal lobe glomerulus VM5"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00007391"
+                "FBbt:00007391"
             ],
             "name":"antennal lobe glomerulus VM5d"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00007365"
+                "FBbt:00007365"
             ],
             "name":"antennal lobe glomerulus VM5v"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003958"
+                "FBbt:00003958"
             ],
             "name":"antennal lobe glomerulus VM6"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003973"
+                "FBbt:00003973"
             ],
             "name":"antennal lobe glomerulus VM7"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00110028"
+                "FBbt:00110028"
             ],
             "name":"antennal lobe glomerulus VM7d"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00007092"
+                "FBbt:00007092"
             ],
             "name":"antennal lobe glomerulus VM7v"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003926"
+                "FBbt:00003926"
             ],
             "name":"antennal lobe glomerulus VP"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003927"
+                "FBbt:00003927"
             ],
             "name":"antennal lobe glomerulus VP1"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003928"
+                "FBbt:00003928"
             ],
             "name":"antennal lobe glomerulus VP2"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003929"
+                "FBbt:00003929"
             ],
             "name":"antennal lobe glomerulus VP3"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00100362"
+                "FBbt:00100362"
             ],
             "name":"antennal lobe hub"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003632"
+                "FBbt:00003632"
             ],
             "name":"adult central complex"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00045020"
+                "FBbt:00045020"
             ],
             "name":"central body"
-         },
-         {  
+        },
+        {  
             "id":"23",
             "extId":[  
-               "FBbt:00003678"
+                "FBbt:00003678"
             ],
             "name":"ellipsoid body"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00040034"
+                "FBbt:00040034"
             ],
             "name":"ellipsoid body layer"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00007555"
+                "FBbt:00007555"
             ],
             "name":"ellipsoid body inner ring"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00007556"
+                "FBbt:00007556"
             ],
             "name":"ellipsoid body outer ring"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00040070"
+                "FBbt:00040070"
             ],
             "name":"ellipsoid body slice"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00007584"
+                "FBbt:00007584"
             ],
             "name":"ellipsoid body slice 1"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00007546"
+                "FBbt:00007546"
             ],
             "name":"ellipsoid body slice 2"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00007547"
+                "FBbt:00007547"
             ],
             "name":"ellipsoid body slice 3"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00007548"
+                "FBbt:00007548"
             ],
             "name":"ellipsoid body slice 4"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00007549"
+                "FBbt:00007549"
             ],
             "name":"ellipsoid body slice 5"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00007550"
+                "FBbt:00007550"
             ],
             "name":"ellipsoid body slice 6"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00007551"
+                "FBbt:00007551"
             ],
             "name":"ellipsoid body slice 7"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00007552"
+                "FBbt:00007552"
             ],
             "name":"ellipsoid body slice 8"
-         },
-         {  
+        },
+        {  
             "id":"26",
             "extId":[  
-               "FBbt:00003679"
+                "FBbt:00003679"
             ],
             "name":"fan-shaped body"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00040035"
+                "FBbt:00040035"
             ],
             "name":"fan-shaped body layer"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00007487"
+                "FBbt:00007487"
             ],
             "name":"fan-shaped body layer 1"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00007488"
+                "FBbt:00007488"
             ],
             "name":"fan-shaped body layer 2"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00007490"
+                "FBbt:00007490"
             ],
             "name":"fan-shaped body layer 3"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00007491"
+                "FBbt:00007491"
             ],
             "name":"fan-shaped body layer 4"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00007492"
+                "FBbt:00007492"
             ],
             "name":"fan-shaped body layer 5"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00007493"
+                "FBbt:00007493"
             ],
             "name":"fan-shaped body layer 6"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00007494"
+                "FBbt:00007494"
             ],
             "name":"fan-shaped body segment pair W"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00007495"
+                "FBbt:00007495"
             ],
             "name":"fan-shaped body segment pair X"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00007496"
+                "FBbt:00007496"
             ],
             "name":"fan-shaped body segment pair Y"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00007497"
+                "FBbt:00007497"
             ],
             "name":"fan-shaped body segment pair Z"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00040036"
+                "FBbt:00040036"
             ],
             "name":"segment of fan-shaped body"
-         },
-         {  
+        },
+        {  
             "id":"4",
             "extId":[  
-               "FBbt:00003680"
+                "FBbt:00003680"
             ],
             "name":"nodulus"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00040033"
+                "FBbt:00040033"
             ],
             "name":"nodulus subunit"
-         },
-         {  
+        },
+        {  
             "id":"6",
             "extId":[  
-               "FBbt:00003668"
+                "FBbt:00003668"
             ],
             "name":"protocerebral bridge"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003669"
+                "FBbt:00003669"
             ],
             "name":"protocerebral bridge slice"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003670"
+                "FBbt:00003670"
             ],
             "name":"protocerebral bridge slice 1"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003671"
+                "FBbt:00003671"
             ],
             "name":"protocerebral bridge slice 2"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003672"
+                "FBbt:00003672"
             ],
             "name":"protocerebral bridge slice 3"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003673"
+                "FBbt:00003673"
             ],
             "name":"protocerebral bridge slice 4"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003674"
+                "FBbt:00003674"
             ],
             "name":"protocerebral bridge slice 5"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003675"
+                "FBbt:00003675"
             ],
             "name":"protocerebral bridge slice 6"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003676"
+                "FBbt:00003676"
             ],
             "name":"protocerebral bridge slice 7"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003677"
+                "FBbt:00003677"
             ],
             "name":"protocerebral bridge slice 8"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003684"
+                "FBbt:00003684"
             ],
             "name":"adult mushroom body"
-         },
-         {  
+        },
+        {  
             "id":"17",
             "extId":[  
-               "FBbt:00007453"
+                "FBbt:00007453"
             ],
             "name":"pedunculus of adult mushroom body"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00045009"
+                "FBbt:00045009"
             ],
             "name":"pedunculus divide of adult mushroom body"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00045008"
+                "FBbt:00045008"
             ],
             "name":"pedunculus neck of adult mushroom body"
-         },
-         {  
+        },
+        {  
             "id":"36",
             "extId":[  
-               "FBbt:00007385"
+                "FBbt:00007385"
             ],
             "name":"calyx of adult mushroom body"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00013688"
+                "FBbt:00013688"
             ],
             "name":"lobe system of adult mushroom body"
-         },
-         {  
+        },
+        {  
             "id":"19",
             "extId":[  
-               "FBbt:00007677"
+                "FBbt:00007677"
             ],
             "name":"medial lobe of adult mushroom body"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00045018"
+                "FBbt:00045018"
             ],
             "name":"mushroom body beta accessory calyx fibers"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00100251"
+                "FBbt:00100251"
             ],
             "name":"mushroom body beta'' lobe"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00013694"
+                "FBbt:00013694"
             ],
             "name":"adult mushroom body beta'-lobe"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00110009"
+                "FBbt:00110009"
             ],
             "name":"mushroom body beta' lobe segment"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00100278"
+                "FBbt:00100278"
             ],
             "name":"mushroom body beta' lobe slice 1"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00100279"
+                "FBbt:00100279"
             ],
             "name":"mushroom body beta' lobe slice 2"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00110008"
+                "FBbt:00110008"
             ],
             "name":"mushroom body beta' lobe stratum"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00100269"
+                "FBbt:00100269"
             ],
             "name":"mushroom body beta' anterior layer"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00100270"
+                "FBbt:00100270"
             ],
             "name":"mushroom body beta' middle layer"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00100271"
+                "FBbt:00100271"
             ],
             "name":"mushroom body beta' posterior layer"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003693"
+                "FBbt:00003693"
             ],
             "name":"mushroom body beta-lobe"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00110003"
+                "FBbt:00110003"
             ],
             "name":"mushroom body beta lobe segment"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00100280"
+                "FBbt:00100280"
             ],
             "name":"mushroom body beta lobe slice 1"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00100281"
+                "FBbt:00100281"
             ],
             "name":"mushroom body beta lobe slice 2"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00110005"
+                "FBbt:00110005"
             ],
             "name":"mushroom body beta lobe stratum"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00100263"
+                "FBbt:00100263"
             ],
             "name":"mushroom body beta lobe core layer"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00100264"
+                "FBbt:00100264"
             ],
             "name":"mushroom body beta lobe inner core layer"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00100265"
+                "FBbt:00100265"
             ],
             "name":"mushroom body beta lobe outer core layer"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00100261"
+                "FBbt:00100261"
             ],
             "name":"mushroom body beta lobe posterior layer"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00100262"
+                "FBbt:00100262"
             ],
             "name":"mushroom body beta lobe surface layer"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003695"
+                "FBbt:00003695"
             ],
             "name":"mushroom body gamma-lobe"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00110002"
+                "FBbt:00110002"
             ],
             "name":"mushroom body gamma lobe segment"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00100273"
+                "FBbt:00100273"
             ],
             "name":"mushroom body gamma lobe slice 1"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00100274"
+                "FBbt:00100274"
             ],
             "name":"mushroom body gamma lobe slice 2"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00100275"
+                "FBbt:00100275"
             ],
             "name":"mushroom body gamma lobe slice 3"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00100276"
+                "FBbt:00100276"
             ],
             "name":"mushroom body gamma lobe slice 4"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00100277"
+                "FBbt:00100277"
             ],
             "name":"mushroom body gamma lobe slice 5"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00045010"
+                "FBbt:00045010"
             ],
             "name":"mushroom body spur"
-         },
-         {  
+        },
+        {  
             "id":"18",
             "extId":[  
-               "FBbt:00015407"
+                "FBbt:00015407"
             ],
             "name":"vertical lobe of adult mushroom body"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00045014"
+                "FBbt:00045014"
             ],
             "name":"mushroom body alpha accessory calyx fibers"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00100252"
+                "FBbt:00100252"
             ],
             "name":"mushroom body alpha'' lobe"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00013691"
+                "FBbt:00013691"
             ],
             "name":"adult mushroom body alpha'-lobe"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00110001"
+                "FBbt:00110001"
             ],
             "name":"mushroom body alpha' lobe segment"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00100282"
+                "FBbt:00100282"
             ],
             "name":"mushroom body alpha' lobe slice 1"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00100283"
+                "FBbt:00100283"
             ],
             "name":"mushroom body alpha' lobe slice 2"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00100284"
+                "FBbt:00100284"
             ],
             "name":"mushroom body alpha' lobe slice 3"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00110006"
+                "FBbt:00110006"
             ],
             "name":"mushroom body alpha' lobe stratum"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00100266"
+                "FBbt:00100266"
             ],
             "name":"mushroom body alpha' anterior layer"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00100267"
+                "FBbt:00100267"
             ],
             "name":"mushroom body alpha' middle layer"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00100268"
+                "FBbt:00100268"
             ],
             "name":"mushroom body alpha' posterior layer"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003690"
+                "FBbt:00003690"
             ],
             "name":"mushroom body alpha-lobe"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00110000"
+                "FBbt:00110000"
             ],
             "name":"mushroom body alpha lobe segment"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00100285"
+                "FBbt:00100285"
             ],
             "name":"mushroom body alpha lobe slice 1"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00100286"
+                "FBbt:00100286"
             ],
             "name":"mushroom body alpha lobe slice 2"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00100287"
+                "FBbt:00100287"
             ],
             "name":"mushroom body alpha lobe slice 3"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00110004"
+                "FBbt:00110004"
             ],
             "name":"mushroom body alpha lobe stratum"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00100258"
+                "FBbt:00100258"
             ],
             "name":"mushroom body alpha lobe core layer"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00100259"
+                "FBbt:00100259"
             ],
             "name":"mushroom body alpha lobe inner core layer"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00100260"
+                "FBbt:00100260"
             ],
             "name":"mushroom body alpha lobe outer core layer"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00100256"
+                "FBbt:00100256"
             ],
             "name":"mushroom body alpha lobe posterior layer"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00100257"
+                "FBbt:00100257"
             ],
             "name":"mushroom body alpha lobe surface layer"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00040037"
+                "FBbt:00040037"
             ],
             "name":"inferior neuropils"
-         },
-         {  
+        },
+        {  
             "id":"15",
             "extId":[  
-               "FBbt:00045039"
+                "FBbt:00045039"
             ],
             "name":"antler"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00040047"
+                "FBbt:00040047"
             ],
             "name":"clamp"
-         },
-         {  
+        },
+        {  
             "id":"12",
             "extId":[  
-               "FBbt:00040049"
+                "FBbt:00040049"
             ],
             "name":"inferior clamp"
-         },
-         {  
+        },
+        {  
             "id":"39",
             "extId":[  
-               "FBbt:00040048"
+                "FBbt:00040048"
             ],
             "name":"superior clamp"
-         },
-         {  
+        },
+        {  
             "id":"16",
             "extId":[  
-               "FBbt:00045037"
+                "FBbt:00045037"
             ],
             "name":"crepine"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00040038"
+                "FBbt:00040038"
             ],
             "name":"rubus"
-         },
-         {  
+        },
+        {  
             "id":"14",
             "extId":[  
-               "FBbt:00040050"
+                "FBbt:00040050"
             ],
             "name":"inferior bridge"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00040001"
+                "FBbt:00040001"
             ],
             "name":"lateral complex"
-         },
-         {  
+        },
+        {  
             "id":"5",
             "extId":[  
-               "FBbt:00003682"
+                "FBbt:00003682"
             ],
             "name":"bulb"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00100365"
+                "FBbt:00100365"
             ],
             "name":"anterior bulb"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00100364"
+                "FBbt:00100364"
             ],
             "name":"inferior bulb"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00100363"
+                "FBbt:00100363"
             ],
             "name":"superior bulb"
-         },
-         {  
+        },
+        {  
             "id":"8",
             "extId":[  
-               "FBbt:00003681"
+                "FBbt:00003681"
             ],
             "name":"lateral accessory lobe"
-         },
-         {  
+        },
+        {  
             "id":"51",
             "extId":[  
-               "FBbt:00040060"
+                "FBbt:00040060"
             ],
             "name":"gall"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00040061"
+                "FBbt:00040061"
             ],
             "name":"lower lateral accessory lobe"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00040059"
+                "FBbt:00040059"
             ],
             "name":"upper lateral accessory lobe"
-         },
-         {  
+        },
+        {  
             "id":"7",
             "extId":[  
-               "FBbt:00007053"
+                "FBbt:00007053"
             ],
             "name":"lateral horn"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003701"
+                "FBbt:00003701"
             ],
             "name":"optic lobe"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003708"
+                "FBbt:00003708"
             ],
             "name":"lamina"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00045000"
+                "FBbt:00045000"
             ],
             "name":"lamina dorsal rim area"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00001943"
+                "FBbt:00001943"
             ],
             "name":"lamina plexus"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003747"
+                "FBbt:00003747"
             ],
             "name":"optic cartridge"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00100366"
+                "FBbt:00100366"
             ],
             "name":"plexiform lamina"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00045004"
+                "FBbt:00045004"
             ],
             "name":"lobula complex"
-         },
-         {  
+        },
+        {  
             "id":"3",
             "extId":[  
-               "FBbt:00003852"
+                "FBbt:00003852"
             ],
             "name":"lobula"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003853"
+                "FBbt:00003853"
             ],
             "name":"lobula layer 1"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003854"
+                "FBbt:00003854"
             ],
             "name":"lobula layer 2"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003855"
+                "FBbt:00003855"
             ],
             "name":"lobula layer 3"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003856"
+                "FBbt:00003856"
             ],
             "name":"lobula layer 4"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00040016"
+                "FBbt:00040016"
             ],
             "name":"lobula layer 5"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00040017"
+                "FBbt:00040017"
             ],
             "name":"lobula layer 6"
-         },
-         {  
+        },
+        {  
             "id":"22",
             "extId":[  
-               "FBbt:00003885"
+                "FBbt:00003885"
             ],
             "name":"lobula plate"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003886"
+                "FBbt:00003886"
             ],
             "name":"lobula plate layer 1"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003887"
+                "FBbt:00003887"
             ],
             "name":"lobula plate layer 2"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003888"
+                "FBbt:00003888"
             ],
             "name":"lobula plate layer 3"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003889"
+                "FBbt:00003889"
             ],
             "name":"lobula plate layer 4"
-         },
-         {  
+        },
+        {  
             "id":"25",
             "extId":[  
-               "FBbt:00003748"
+                "FBbt:00003748"
             ],
             "name":"medulla"
-         },
-         {  
+        },
+        {  
             "id":"2",
             "extId":[  
-               "FBbt:00045003"
+                "FBbt:00045003"
             ],
             "name":"accessory medulla"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003757"
+                "FBbt:00003757"
             ],
             "name":"inner medulla"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003760"
+                "FBbt:00003760"
             ],
             "name":"medulla layer M10"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003758"
+                "FBbt:00003758"
             ],
             "name":"medulla layer M8"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003759"
+                "FBbt:00003759"
             ],
             "name":"medulla layer M9"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00045001"
+                "FBbt:00045001"
             ],
             "name":"plexiform medulla"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00045002"
+                "FBbt:00045002"
             ],
             "name":"medulla dorsal rim area"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003749"
+                "FBbt:00003749"
             ],
             "name":"outer medulla"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003750"
+                "FBbt:00003750"
             ],
             "name":"medulla layer M1"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003751"
+                "FBbt:00003751"
             ],
             "name":"medulla layer M2"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003752"
+                "FBbt:00003752"
             ],
             "name":"medulla layer M3"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003753"
+                "FBbt:00003753"
             ],
             "name":"medulla layer M4"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003754"
+                "FBbt:00003754"
             ],
             "name":"medulla layer M5"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003755"
+                "FBbt:00003755"
             ],
             "name":"medulla layer M6"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003756"
+                "FBbt:00003756"
             ],
             "name":"serpentine layer"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00045030"
+                "FBbt:00045030"
             ],
             "name":"superior neuropils"
-         },
-         {  
+        },
+        {  
             "id":"28",
             "extId":[  
-               "FBbt:00045032"
+                "FBbt:00045032"
             ],
             "name":"superior intermediate protocerebrum"
-         },
-         {  
+        },
+        {  
             "id":"27",
             "extId":[  
-               "FBbt:00007054"
+                "FBbt:00007054"
             ],
             "name":"superior lateral protocerebrum"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00040045"
+                "FBbt:00040045"
             ],
             "name":"anterior superior lateral protocerebrum"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00040046"
+                "FBbt:00040046"
             ],
             "name":"posterior superior lateral protocerebrum"
-         },
-         {  
+        },
+        {  
             "id":"29",
             "extId":[  
-               "FBbt:00007055"
+                "FBbt:00007055"
             ],
             "name":"superior medial protocerebrum"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00040062"
+                "FBbt:00040062"
             ],
             "name":"anterior superior medial protocerebrum"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00040063"
+                "FBbt:00040063"
             ],
             "name":"posterior superior medial protocerebrum"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00045021"
+                "FBbt:00045021"
             ],
             "name":"ventrolateral neuropils"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00003698"
+                "FBbt:00003698"
             ],
             "name":"optic glomerulus"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00007581"
+                "FBbt:00007581"
             ],
             "name":"optic glomerulus of the PLP"
-         },
-         {  
+        },
+        {  
             "id":"34",
             "extId":[  
-               "FBbt:00007059"
+                "FBbt:00007059"
             ],
             "name":"anterior optic tubercle"
-         },
-         {  
+        },
+        {  
             "id":"33",
             "extId":[  
-               "FBbt:00040044"
+                "FBbt:00040044"
             ],
             "name":"posterior lateral protocerebrum"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00007058"
+                "FBbt:00007058"
             ],
             "name":"ventrolateral protocerebrum"
-         },
-         {  
+        },
+        {  
             "id":"30",
             "extId":[  
-               "FBbt:00040043"
+                "FBbt:00040043"
             ],
             "name":"anterior ventrolateral protocerebrum"
-         },
-         {  
+        },
+        {  
             "id":"32",
             "extId":[  
-               "FBbt:00045027"
+                "FBbt:00045027"
             ],
             "name":"wedge"
-         },
-         {  
+        },
+        {  
             "id":"31",
             "extId":[  
-               "FBbt:00040042"
+                "FBbt:00040042"
             ],
             "name":"posterior ventrolateral protocerebrum"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00007582"
+                "FBbt:00007582"
             ],
             "name":"optic glomerulus of the PVLP"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00040002"
+                "FBbt:00040002"
             ],
             "name":"ventromedial neuropils"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00040072"
+                "FBbt:00040072"
             ],
             "name":"posterior slope"
-         },
-         {  
+        },
+        {  
             "id":"38",
             "extId":[  
-               "FBbt:00045046"
+                "FBbt:00045046"
             ],
             "name":"inferior posterior slope"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00045042"
+                "FBbt:00045042"
             ],
             "name":"delta"
-         },
-         {  
+        },
+        {  
             "id":"37",
             "extId":[  
-               "FBbt:00045040"
+                "FBbt:00045040"
             ],
             "name":"superior posterior slope"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00040071"
+                "FBbt:00040071"
             ],
             "name":"ventral complex"
-         },
-         {  
+        },
+        {  
             "id":"40",
             "extId":[  
-               "FBbt:00040040"
+                "FBbt:00040040"
             ],
             "name":"epaulette"
-         },
-         {  
+        },
+        {  
             "id":"35",
             "extId":[  
-               "FBbt:00040039"
+                "FBbt:00040039"
             ],
             "name":"gorget"
-         },
-         {  
+        },
+        {  
             "id":"13",
             "extId":[  
-               "FBbt:00040041"
+                "FBbt:00040041"
             ],
             "name":"vest"
-         },
-         {  
+        },
+        {  
             "id":"10",
             "extId":[  
-               "FBbt:00045051"
+                "FBbt:00045051"
             ],
             "name":"cantle"
-         },
-         {  
+        },
+        {  
             "id":"20",
             "extId":[  
-               "FBbt:00045050"
+                "FBbt:00045050"
             ],
             "name":"flange"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00110639"
+                "FBbt:00110639"
             ],
             "name":"adult subesophageal zone"
-         },
-         {  
+        },
+        {  
             "id":"9",
             "extId":[  
-               "FBbt:00045048"
+                "FBbt:00045048"
             ],
             "name":"saddle"
-         },
-         {  
+        },
+        {  
             "id":"11",
             "extId":[  
-               "FBbt:00003982"
+                "FBbt:00003982"
             ],
             "name":"antennal mechanosensory and motor center"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00100015"
+                "FBbt:00100015"
             ],
             "name":"antennal mechanosensory and motor center zone A"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00100016"
+                "FBbt:00100016"
             ],
             "name":"antennal mechanosensory and motor center zone B"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00100017"
+                "FBbt:00100017"
             ],
             "name":"antennal mechanosensory and motor center zone C"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00100018"
+                "FBbt:00100018"
             ],
             "name":"antennal mechanosensory and motor center zone D"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00100019"
+                "FBbt:00100019"
             ],
             "name":"antennal mechanosensory and motor center zone E"
-         },
-         {  
+        },
+        {  
             "id":"49",
             "extId":[  
-               "FBbt:00014013"
+                "FBbt:00014013"
             ],
             "name":"adult gnathal ganglion"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00040057"
+                "FBbt:00040057"
             ],
             "name":"anterior maxillary sensory center"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00040054"
+                "FBbt:00040054"
             ],
             "name":"inferior pharyngeal sensory center"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00040055"
+                "FBbt:00040055"
             ],
             "name":"labial sensory center"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00040056"
+                "FBbt:00040056"
             ],
             "name":"posterior maxillary sensory center"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00004014"
+                "FBbt:00004014"
             ],
             "name":"taste-sensory region glomerulus"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00004015"
+                "FBbt:00004015"
             ],
             "name":"taste-sensory glomerulus DA"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00004016"
+                "FBbt:00004016"
             ],
             "name":"taste-sensory glomerulus M"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00004017"
+                "FBbt:00004017"
             ],
             "name":"taste-sensory glomerulus VL"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00004018"
+                "FBbt:00004018"
             ],
             "name":"taste-sensory glomerulus VM"
-         },
-         {  
+        },
+        {  
             "id":"50",
             "extId":[  
-               "FBbt:00040051"
+                "FBbt:00040051"
             ],
             "name":"prow"
-         },
-         {  
+        },
+        {  
             "id":"",
             "extId":[  
-               "FBbt:00040052"
+                "FBbt:00040052"
             ],
             "name":"superior pharyngeal sensory center"
-         }
-      ]  
+        }
+    ]
 }
