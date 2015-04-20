@@ -8,7 +8,7 @@ Recommended files
 | Kind | File | voxel size | dims |
 |------|------|------------|------|
 | nc82 template | [JFRCtemplate2010.nrrd](../master/template/JFRCtemplate2010.nrrd) | 0.622088 µm isotropic | 1024 x 512 x 218 |
-| Label Field | [JFRCtempate2010.mask130819_Original.nrrd](../master/template/JFRCtempate2010.mask130819_Original.nrrd) | 0.622088 µm isotropic | 1024 x 512 x 218 |
+| Label Field | [JFRCtempate2010.mask130819_Original.nrrd](../master/combinedIndexFiles/JFRCtempate2010.mask130819_Original.nrrd) | 0.622088 µm isotropic | 1024 x 512 x 218 |
 
 [nrrd format](teem.sourceforge.net/nrrd) images can be opened in [Fiji](http://fiji.sc/)/[ImageJ](http://imagej.nih.gov/ij/), [Amira](http://www.vsg3d.com/amira)
 (with [plugin](https://github.com/jefferis/hxNrrdIO)) and many
