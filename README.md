@@ -10,7 +10,9 @@ Recommended files
 | nc82 template | [JFRCtemplate2010.nrrd](../master/template/JFRCtemplate2010.nrrd) | 0.622088 µm isotropic | 1024 x 512 x 218 |
 | Label Field | [JFRCtempate2010.mask130819_Original.nrrd](../master/combinedIndexFiles/JFRCtempate2010.mask130819_Original.nrrd) | 0.622088 µm isotropic | 1024 x 512 x 218 |
 
-[nrrd format](teem.sourceforge.net/nrrd) images can be opened in [Fiji](http://fiji.sc/)/[ImageJ](http://imagej.nih.gov/ij/), [Amira](http://www.vsg3d.com/amira)
+[nrrd format](teem.sourceforge.net/nrrd) images can be opened in [Fiji](http://fiji.sc/)/[ImageJ](http://imagej.nih.gov/ij/),
+[Vaa3d](vaa3d.org) > 3.024, 
+[Amira](http://www.vsg3d.com/amira)
 (with [plugin](https://github.com/jefferis/hxNrrdIO)) and many
 [medical imaging software packages](http://www.nitrc.org/search/?type_of_search=group&offset=0&removeterm=&cat=511%3ANrrd&compare=&term%5B%5D=nrrd).
 
