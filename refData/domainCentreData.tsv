@@ -1,0 +1,76 @@
+domain ID	centre	color	abbv	FBbt ID	FBbt name
+2	527.879,298.028,98.0007		AME_R	FBbt:00045003	accessory medulla
+3	513.372,285.43,151.592		LO_R	FBbt:00003852	lobula
+4	508.524,210.663,103.835		NO	FBbt:00003680	nodulus
+5	519.859,146.561,99.917		BU_R	FBbt:00003682	bulb
+6	513.788,143.689,173.917		PB	FBbt:00003668	protocerebral bridge
+7	493.079,124.402,144.966		LH_R	FBbt:00007053	lateral horn
+8	506.698,219.171,81.829		LAL_R	FBbt:00003681	lateral accessory lobe
+9	514.786,334.502,100.677		SAD	FBbt:00045048	saddle
+10	517.298,291.557,118.701		CAN_R	FBbt:00045051	cantle
+11	520.275,317.308,76.9649		AMMC_R	FBbt:00003982	antennal mechanosensory and motor center
+12	509.737,165.776,138.394		ICL_R	FBbt:00040049	inferior clamp
+13	510.416,264.182,98.6439		VES_R	FBbt:00040041	vest
+14	510.083,189.931,158.951		IB_R	FBbt:00040050	inferior bridge
+15	502.157,128.17,159.074		ATL_R	FBbt:00045039	antler
+16	505.612,131.222,72.3609		CRE_R	FBbt:00045037	crepine
+17	513.84,153.489,97.2343		MB_PED_R	FBbt:00007453	pedunculus of adult mushroom body
+18	516.275,69.7545,86.9892		MB_VL_R	FBbt:00015407	vertical lobe of adult mushroom body
+19	507.604,136.466,61.7521		MB_ML_R	FBbt:00007677	medial lobe of adult mushroom body
+20	510.26,298.208,77.3571		FLA_R	FBbt:00045050	flange
+22	513.731,319.756,174.781		LOP_R	FBbt:00003885	lobula plate
+23	507.948,165.028,92.1135		EB	FBbt:00003678	ellipsoid body
+24	503.801,234.817,41.4746		AL_R	FBbt:00007401	adult antennal lobe
+25	519.237,317.204,123.876		ME_R	FBbt:00003748	medulla
+26	510.494,154.357,119.916		FB	FBbt:00003679	fan-shaped body
+27	512.473,70.9876,126.255		SLP_R	FBbt:00007054	superior lateral protocerebrum
+28	504.197,85.3909,104.904		SIP_R	FBbt:00045032	superior intermediate protocerebrum
+29	509.393,74.5206,113.867		SMP_R	FBbt:00007055	superior medial protocerebrum
+30	526.303,230.624,77.8469		AVLP_R	FBbt:00040043	anterior ventrolateral protocerebrum
+31	477.257,225.812,114.032		PVLP_R	FBbt:00040042	posterior ventrolateral protocerebrum
+32	520.248,299.66,106.211		IVLP_R	FBbt:00045027	wedge
+33	501.805,211.44,152.376		PLP_R	FBbt:00040044	posterior lateral protocerebrum
+34	510.93,111.748,72.6255		AOTU_R	FBbt:00007059	anterior optic tubercle
+35	502.437,202.622,127.505		GOR_R	FBbt:00040039	gorget
+36	512.724,115.144,182.365		MB_CA_R	FBbt:00007385	calyx of adult mushroom body
+37	519.733,238.153,154.658		SPS_R	FBbt:00045040	superior posterior slope
+38	500.798,302.186,152.449		IPS_R	FBbt:00045046	inferior posterior slope
+39	510.636,126.244,136.722		SCL_R	FBbt:00040048	superior clamp
+40	503.376,221.861,109.501		EPA_R	FBbt:00040040	epaulette
+49	512.203,386.087,110.19		GNG	FBbt:00014013	adult gnathal ganglion
+50	510.952,333.341,54.3516		PRW	FBbt:00040051	prow
+51	510.86,177.29,70.3501		GA_R	FBbt:00040060	gall
+52			AME_L	FBbt:00045003	accessory medulla
+53			LO_L	FBbt:00003852	lobula
+54			BU_L	FBbt:00003682	bulb
+55			LH_L	FBbt:00007053	lateral horn
+56			LAL_L	FBbt:00003681	lateral accessory lobe
+57			CAN_L	FBbt:00045051	cantle
+58			AMMC_L	FBbt:00003982	antennal mechanosensory and motor center
+59			ICL_L	FBbt:00040049	inferior clamp
+60			VES_L	FBbt:00040041	vest
+61			IB_L	FBbt:00040050	inferior bridge
+62			ATL_L	FBbt:00045039	antler
+63			CRE_L	FBbt:00045037	crepine
+64			MB_PED_L	FBbt:00007453	pedunculus of adult mushroom body
+65			MB_VL_L	FBbt:00015407	vertical lobe of adult mushroom body
+66			MB_ML_L	FBbt:00007677	medial lobe of adult mushroom body
+67			FLA_L	FBbt:00045050	flange
+69			LOP_L	FBbt:00003885	lobula plate
+70			AL_L	FBbt:00007401	adult antennal lobe
+71			ME_L	FBbt:00003748	medulla
+72			SLP_L	FBbt:00007054	superior lateral protocerebrum
+73			SIP_L	FBbt:00045032	superior intermediate protocerebrum
+74			SMP_L	FBbt:00007055	superior medial protocerebrum
+75			AVLP_L	FBbt:00040043	anterior ventrolateral protocerebrum
+76			PVLP_L	FBbt:00040042	posterior ventrolateral protocerebrum
+77			IVLP_L	FBbt:00045027	wedge
+78			PLP_L	FBbt:00040044	posterior lateral protocerebrum
+79			AOTU_L	FBbt:00007059	anterior optic tubercle
+80			GOR_L	FBbt:00040039	gorget
+81			MB_CA_L	FBbt:00007385	calyx of adult mushroom body
+82			SPS_L	FBbt:00045040	superior posterior slope
+83			IPS_L	FBbt:00045046	inferior posterior slope
+84			SCL_L	FBbt:00040048	superior clamp
+85			EPA_L	FBbt:00040040	epaulette
+86			GA_L	FBbt:00040060	gall
