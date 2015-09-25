@@ -1713,13 +1713,6 @@
             "name":"inferior posterior slope"
         },
         {  
-            "id":"",
-            "extId":[  
-                "FBbt:00045042"
-            ],
-            "name":"delta"
-        },
-        {  
             "id":"37",
             "extId":[  
                 "FBbt:00045040"
