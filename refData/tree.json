@@ -1339,13 +1339,6 @@
                                             "children": [
                                                 {
                                                     "node": {
-                                                        "children": [
-                                                            {
-                                                                "node": {
-                                                                    "nodeId": "244"
-                                                                }
-                                                            }
-                                                        ],
                                                         "nodeId": "243"
                                                     }
                                                 },
