@@ -4,7 +4,7 @@
         "id":"VFBt_00100000",
 	"voxel":"0.62208,0.62208,0.62208",
 	"units":"microns",
-        "orientation":"LPS",
+        "orientation":"LIP",
         "center":"511,255,108",
         "extent":"1023,511,217"
     },
