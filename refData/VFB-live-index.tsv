@@ -4,7 +4,7 @@ LO	lobula	3	FBbt_00003852	VFB_00030622
 NO	nodulus	4	FBbt_00003680	VFB_00030609
 BU	bulb	5	FBbt_00003682	VFB_00030625
 PB	protocerebral bridge	6	FBbt_00003668	VFB_00030619
-LH	lateral horn	7	FBbt_00007053	?
+LH	lateral horn	7	FBbt_00007053	VFB_00030900
 LAL	lateral accessory lobe	8	FBbt_00003681	VFB_00030605
 SAD	saddle	9	FBbt_00045048	VFB_00030600
 CAN	cantle	10	FBbt_00045051	VFB_00030602
@@ -14,9 +14,9 @@ VES	vest	13	FBbt_00040041	VFB_00030616
 IB	inferior bridge	14	FBbt_00040050	VFB_00030631
 ATL	antler	15	FBbt_00045039	VFB_00030615
 CRE	crepine	16	FBbt_00045037	VFB_00030606
-MB_PED	pedunculus of adult mushroom body	17	FBbt_00007453	?
-MB_VL	vertical lobe of adult mushroom body	18	FBbt_00015407	?
-MB_ML	medial lobe of adult mushroom body	19	FBbt_00007677	?
+MB_PED	pedunculus of adult mushroom body	17	FBbt_00007453	VFB_00030901
+MB_VL	vertical lobe of adult mushroom body	18	FBbt_00015407	VFB_00030902
+MB_ML	medial lobe of adult mushroom body	19	FBbt_00007677	VFB_00030903
 FLA	flange	20	FBbt_00045050	VFB_00030620
 LOP	lobula plate	22	FBbt_00003885	VFB_00030612
 EB	ellipsoid body	23	FBbt_00003678	VFB_00030611
