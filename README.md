@@ -3,6 +3,14 @@ Drosophila Adult Brain Template and Domains
 
 This is the location of the main brain template created from JFRCtemplate2010 with labeled domains from the mask dated 19/08/13.
 
+| Folder | Contence Description |
+|------|------|
+| templates | Background neuropil template |
+| refData | index domain numbers to anatomy labels / IDs |
+| combinedIndexFiles | indexed domain label files |
+| individualDomainFiles | index domain labels split out as individual files. |
+| maxProjectionViews | z projection maximum projection views and thumbnails for each index. |
+
 Recommended files
 -----------------
 | Kind | File | voxel size | dims |
