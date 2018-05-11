@@ -1,0 +1,30 @@
+! TYPEDSTREAM 2.4
+
+algorithm 3
+use_maxnorm yes
+exploration 30.0000000000
+accuracy 0.4000000000
+min_sampling 0.6220886252
+coarsest_resolution 4.0000000000
+use_original_data yes
+fast_mode no
+metric 0
+optimizer_step_factor 0.5000000000
+grid_spacing 80.0000000000
+ignore_edge 0
+jacobian_constraint_weight 0.0000000000
+rigidity_constraint_weight 0.0000000000
+energy_constraint_weight 0.1000000015
+inverse_consistency_weight 0.0000000000
+weight_relaxation -1.0000000000
+force_switch no
+refine_grid 4
+delay_refine_grid no
+adaptive_fix_parameters yes
+adaptive_fix_parameters_thresh 0.5000000000
+preprocessing_ref {
+	dataclass "GreyLevel"
+}
+preprocessing_flt {
+	dataclass "GreyLevel"
+}
