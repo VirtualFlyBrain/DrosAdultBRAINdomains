@@ -1,0 +1,11 @@
+! TYPEDSTREAM 2.4
+
+studylist {
+	num_sources 2
+}
+source {
+	studyname "/data/DrosAdultBRAINdomains/template/JFRCtemplate2010.nrrd"
+}
+source {
+	studyname "/NAS/JRC2018/JRC2018_UNISEX_20xHR_8bit.nrrd"
+}

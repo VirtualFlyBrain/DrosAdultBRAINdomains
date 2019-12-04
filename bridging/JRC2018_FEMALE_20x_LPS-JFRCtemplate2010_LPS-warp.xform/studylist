@@ -1,0 +1,11 @@
+! TYPEDSTREAM 2.4
+
+studylist {
+	num_sources 2
+}
+source {
+	studyname "/data/DrosAdultBRAINdomains/template/JFRCtemplate2010_LPS.nrrd"
+}
+source {
+	studyname "/NAS/JRC2018_FEMALE_20x/input/JRC2018_FEMALE_20x_LPS.nrrd"
+}
