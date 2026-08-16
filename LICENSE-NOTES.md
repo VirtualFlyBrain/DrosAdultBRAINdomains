@@ -4,10 +4,10 @@ This repository holds image data, not software, and the material in it does not 
 come from the same place. The `LICENSE` file at the root states the default terms;
 the exceptions below take precedence for the files they cover.
 
-## Default: CC BY-SA 4.0
+## Default: CC BY 4.0
 
 Everything not listed under "Exceptions" is released under the Creative Commons
-Attribution-ShareAlike 4.0 International licence, matching the terms Virtual Fly
+Attribution 4.0 International licence, matching the terms Virtual Fly
 Brain publishes for the corresponding dataset, BrainName neuropils on adult brain
 JFRC2: <https://virtualflybrain.org/reports/JenettShinomya_BrainName>
 
@@ -49,3 +49,5 @@ software licence and was never an accurate description of the terms for image da
 It has been replaced rather than supplemented. Nothing in this change is intended to
 narrow any permission previously granted; anyone relying on the earlier GPL grant for
 their own prior use is unaffected.
+
+In August 2026 the licence was changed again, from CC BY-SA 4.0 to **CC BY 4.0**, to match the licence named in Virtual Fly Brain's own publication (Court et al. 2023, *Front. Physiol.* 14:1076533) and to allow deposition in EMBL-EBI archives, which accept CC0 or CC BY 4.0 but not ShareAlike. This widens permissions; it does not narrow them.
