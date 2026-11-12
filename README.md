@@ -1,6 +1,8 @@
 Drosophila Adult Brain Template and Domains
 =====================
 
+[![DOI](https://zenodo.org/badge/19308179.svg)](https://zenodo.org/badge/latestdoi/19308179)
+
 This is the location of the main brain template created from JFRCtemplate2010 with labeled domains from the mask dated 19/08/13.
 
 | Folder | Contence Description |
